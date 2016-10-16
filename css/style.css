@@ -29,6 +29,11 @@ h2 {
   margin-bottom: 24px;
 }
 
+h3 {
+  font-size: 22px;
+  line-height: 26px;
+}
+
 a {
   color: #4499cc;
   text-decoration:underline;
