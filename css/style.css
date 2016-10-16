@@ -80,3 +80,8 @@ footer{
 footer span {
   color: #fafafa;
 }
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
