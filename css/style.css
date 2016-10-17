@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  height:74px;
+  height: 74px;
   background-color: #49c;
 }
 
@@ -37,7 +37,7 @@ h3 {
 
 a {
   color: #49c;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 p {
